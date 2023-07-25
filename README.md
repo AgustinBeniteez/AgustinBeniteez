@@ -4,6 +4,7 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am Agustín passionate about Computer Science, studying Microcomputer Systems and Networks. 
+    learning HTML and CSS and I want to learn a lot more.
 <br>
 <br>
 <div align="center">
