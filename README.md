@@ -1,4 +1,4 @@
-¡<h1 style="color: #44AEFB;"> 👑 AgusTheKing </h1>
+<h1 style="color: #44AEFB;"> 👑 AgusTheKing </h1>
 
 ![github_cover_banner](https://cdn.discordapp.com/attachments/1128626915511636039/1133381205845344256/Sin_titulo-1.png)
 
@@ -52,7 +52,6 @@
 <div class="youtube videos cards" align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-"(https://cdn.discordapp.com/attachments/1128626915511636039/1133386569340956783/image.png)"
 [![The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend](https://ytcards.demolab.com/?id=rs5Z3uc0RMU&title=The+Fundamentals+of+Web+Development+-+REST+APIs%2C+HTTP+Requests%2C+Databases%2C+Frontend%2C+and+Backend&lang=en&timestamp=1679757592&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend")](https://www.youtube.com/watch?v=rs5Z3uc0RMU)
 [![Olympic Clean Personal Record 135 KG | Maxing Out](https://ytcards.demolab.com/?id=7LGrv4xa0Tc&title=Olympic+Clean+Personal+Record+135+KG+%7C+Maxing+Out&lang=en&timestamp=1679754700&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Olympic Clean Personal Record 135 KG | Maxing Out")](https://www.youtube.com/watch?v=7LGrv4xa0Tc)
 [![Front Squat 180 kg 397 lbs.](https://ytcards.demolab.com/?id=1iEfWvpc9Gk&title=Front+Squat+180+kg+397+lbs.&lang=en&timestamp=1679754599&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Front Squat 180 kg 397 lbs.")](https://www.youtube.com/watch?v=1iEfWvpc9Gk)
