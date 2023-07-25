@@ -45,7 +45,7 @@
 
 <!-- Latest YouTube Videos -->
 
-<h2 style="color: #44AEFB"> 🖥️ YouTube</h2>
+<h2 style="color: #44AEFB"> | 🖥️ YouTube</h2>
 <br />
 
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
