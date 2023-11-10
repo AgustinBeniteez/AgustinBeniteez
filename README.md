@@ -1,3 +1,11 @@
+<style>
+    img{
+        border-radius: 15px;
+    }
+</style>
+
+
+
 <h1 style="color: #44AEFB;"> 👑 AgusTheKing </h1>
 
 ![github_cover_banner](https://cdn.discordapp.com/attachments/1128626915511636039/1133381205845344256/Sin_titulo-1.png)
