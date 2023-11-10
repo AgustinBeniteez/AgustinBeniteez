@@ -2,7 +2,7 @@
 
 ![github_cover_banner](https://cdn.discordapp.com/attachments/1128626915511636039/1133381205845344256/Sin_titulo-1.png)
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px; border-radius:15px;" >
     I am Agustín passionate about Computer Science, studying Microcomputer Systems and Networks. 
     learning HTML and CSS and I want to learn a lot more.
 <br>
