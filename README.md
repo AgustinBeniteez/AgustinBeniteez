@@ -1,10 +1,3 @@
-<style>
-    img{
-        border-radius: 15px;
-    }
-</style>
-
-
 
 <h1 style="color: #44AEFB;"> 👑 AgusTheKing </h1>
 
