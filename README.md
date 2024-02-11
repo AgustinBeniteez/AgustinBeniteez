@@ -41,7 +41,7 @@
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <div class="youtube videos cards" align="center">
  <div class="social-icons-container">
-                    <a href="https://elementscss.000webhostapp.com" class="social-icon" target="_blank"><img src="https://i.imgur.com/Qm4F8Dw.png" alt="Elements Css DAJ"></a>
+                    <a href="https://elementscss.000webhostapp.com" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://i.imgur.com/Qm4F8Dw.png" alt="Elements Css DAJ"></a>
                     <br>
                     <a href="https://www.youtube.com/@ElementscssDaj" class="social-icon" target="_blank"><img src="/imagenes/youtube.png" alt="youtube"></a>
                     <br>
