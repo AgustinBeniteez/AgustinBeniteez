@@ -43,9 +43,7 @@
  <div class="social-icons-container">
                     <a href="https://elementscss.000webhostapp.com" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://i.imgur.com/Qm4F8Dw.png" alt="Elements Css DAJ"></a>
                     <br>
-                    <a href="https://www.youtube.com/@ElementscssDaj" class="social-icon" target="_blank"><img src="/imagenes/youtube.png" alt="youtube"></a>
-                    <br>
-                    <a href="https://www.instagram.com/elementscssdaj/" class="social-icon" target="_blank"><img src="/imagenes/instagram.png" alt="Instagram"></a>
+                   
                 </div>
 <br>
 <!-- End Youtube Buttons -->
