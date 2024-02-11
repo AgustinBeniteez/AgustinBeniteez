@@ -51,12 +51,50 @@
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
- <div class="social-icons-container">
-                    <a href="https://twitter.com/ElementsCssDAJ" class="social-icon" target="_blank"><img src="/imagenes/twitter.png" alt="Twitter"></a>
-                    <br>
-                    <a href="https://www.youtube.com/@ElementscssDaj" class="social-icon" target="_blank"><img src="/imagenes/youtube.png" alt="youtube"></a>
-                    <br>
-                    <a href="https://www.instagram.com/elementscssdaj/" class="social-icon" target="_blank"><img src="/imagenes/instagram.png" alt="Instagram"></a>
-                </div>
-<!-- End Footer -->
+<div class="social-icons-container">
+    <button class="social-icon" onclick="window.open('https://twitter.com/ElementsCssDAJ', '_blank')" style="
+        display: inline-block;
+        margin: 10px;
+        transition: transform 0.3s ease-in-out;
+        border: none;
+        background-color: white;
+        cursor: pointer;
+        padding: 0;
+    ">
+        <img src="/imagenes/twitter.png" alt="Twitter" style="
+            width: 50px;
+            border-radius: 20px;
+        ">
+    </button>
+    <button class="social-icon" onclick="window.open('https://www.youtube.com/@ElementscssDaj', '_blank')" style="
+        display: inline-block;
+        margin: 10px;
+        transition: transform 0.3s ease-in-out;
+        border: none;
+        background-color: white;
+        cursor: pointer;
+        padding: 0;
+    ">
+        <img src="/imagenes/youtube.png" alt="Youtube" style="
+            width: 50px;
+            border-radius: 20px;
+        ">
+    </button>
+    <button class="social-icon" onclick="window.open('https://www.instagram.com/elementscssdaj/', '_blank')" style="
+        display: inline-block;
+        margin: 10px;
+        transition: transform 0.3s ease-in-out;
+        border: none;
+        background-color: white;
+        cursor: pointer;
+        padding: 0;
+    ">
+        <img src="/imagenes/instagram.png" alt="Instagram" style="
+            width: 50px;
+            border-radius: 20px;
+        ">
+    </button>
+</div>
 
+
+<!-- End Footer -->
