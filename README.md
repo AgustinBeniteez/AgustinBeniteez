@@ -52,7 +52,7 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="social-icons-container">
-      <a href="https://elementscss.000webhostapp.com">
+      <a href="https://github.com/AgusTheKing/icons">
     <button class="social-icon" onclick="window.open('https://github.com/AgusTheKing/icons', '_blank')" style="
         display: inline-block;
         margin: 10px;
