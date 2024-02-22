@@ -51,8 +51,8 @@
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
+<h2 style="color: #44AEFB"> |🖼️ ICONS ELEMENTS CSS DAJ</h2>
 <div class="social-icons-container">
-    <h2 style="color: #44AEFB"> |🖼️ ICONS ELEMENTS CSS DAJ</h2>
       <a href="https://github.com/AgusTheKing/icons">
     <button class="social-icon" onclick="window.open('https://github.com/AgusTheKing/icons', '_blank')" style="
         display: inline-block;
