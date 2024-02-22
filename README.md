@@ -52,7 +52,7 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="social-icons-container">
-    <button class="social-icon" onclick="window.open('https://twitter.com/ElementsCssDAJ', '_blank')" style="
+    <button class="social-icon" onclick="window.open('https://github.com/AgusTheKing/icons', '_blank')" style="
         display: inline-block;
         margin: 10px;
         transition: transform 0.3s ease-in-out;
@@ -61,39 +61,12 @@
         cursor: pointer;
         padding: 0;
     ">
-        <img src="/imagenes/twitter.png" alt="Twitter" style="
+        <img src="https://media.discordapp.net/attachments/1198766161467281529/1210266915088629873/image.png?ex=65e9efe6&is=65d77ae6&hm=4ea454cdbe9b990a1f659015817816564e60a366ce98fb47c57fd405f2315cf8&=&format=webp&quality=lossless&width=550&height=268" alt="Twitter" style="
             width: 50px;
             border-radius: 20px;
         ">
     </button>
-    <button class="social-icon" onclick="window.open('https://www.youtube.com/@ElementscssDaj', '_blank')" style="
-        display: inline-block;
-        margin: 10px;
-        transition: transform 0.3s ease-in-out;
-        border: none;
-        background-color: white;
-        cursor: pointer;
-        padding: 0;
-    ">
-        <img src="/imagenes/youtube.png" alt="Youtube" style="
-            width: 50px;
-            border-radius: 20px;
-        ">
-    </button>
-    <button class="social-icon" onclick="window.open('https://www.instagram.com/elementscssdaj/', '_blank')" style="
-        display: inline-block;
-        margin: 10px;
-        transition: transform 0.3s ease-in-out;
-        border: none;
-        background-color: white;
-        cursor: pointer;
-        padding: 0;
-    ">
-        <img src="/imagenes/instagram.png" alt="Instagram" style="
-            width: 50px;
-            border-radius: 20px;
-        ">
-    </button>
+
 </div>
 
 
