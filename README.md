@@ -67,7 +67,7 @@
         cursor: pointer;
         padding: 0;
     ">
-        <img src="https://media.discordapp.net/attachments/1198766161467281529/1210269409516593206/image.png?ex=65e9f238&is=65d77d38&hm=daf9a2ba654781f6c8443a4303137ee21713f8405e0171f145076a37c5d95466&=&format=webp&quality=lossless&width=1376&height=671" alt="ElementsCssDajICONS" style="
+        <img src="https://github.com/AgusTheKing/icons/blob/main/iconsbaner.png" style="
             width: 1900px;
             border-radius: 20px;
         ">
