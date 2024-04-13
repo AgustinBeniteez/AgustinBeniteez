@@ -60,8 +60,8 @@
 <!-- https://devicon.dev/ -->
 <h2 style="color: #44AEFB"> |⚙️API ELEMENTS CSS DAJ</h2>
 <div class="social-icons-container">
-      <a href="https://github.com/AgusTheKing/icons">
-    <button class="social-icon" onclick="window.open('https://github.com/AgusTheKing/icons', '_blank')" style="
+      <a href="https://github.com/AgusTheKing/API.ElementsCssDAJ.github.io">
+    <button class="social-icon" onclick="window.open('https://github.com/AgusTheKing/API.ElementsCssDAJ.github.io', '_blank')" style="
         display: inline-block;
         margin: 10px;
         transition: transform 0.3s ease-in-out;
