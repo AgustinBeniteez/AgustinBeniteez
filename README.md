@@ -58,7 +58,7 @@
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
-<h2 style="color: #44AEFB"> |🖼️ ICONS ELEMENTS CSS DAJ</h2>
+<h2 style="color: #44AEFB"> |⚙️API ELEMENTS CSS DAJ</h2>
 <div class="social-icons-container">
       <a href="https://github.com/AgusTheKing/icons">
     <button class="social-icon" onclick="window.open('https://github.com/AgusTheKing/icons', '_blank')" style="
@@ -70,7 +70,7 @@
         cursor: pointer;
         padding: 0;
     ">
-        <img src="https://github.com/AgusTheKing/icons/blob/main/iconsbaner.png" style="
+        <img src="https://raw.githubusercontent.com/AgusTheKing/API.ElementsCssDAJ.github.io/main/img/APIbr_DAJsocial.png" style="
             width: 1900px;
             border-radius: 20px;
         ">
