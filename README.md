@@ -1,5 +1,5 @@
 
-<h1 style="color: #44AEFB;"> 👑 AgusTheKing </h1>
+<h1 style="color: #44AEFB;"> 👑 Agustín Benítez | AgusTheKing </h1>
 
 ![github_cover_banner](perfilgitheader.png)
 
