@@ -1,7 +1,7 @@
 
 <h1 style="color: #44AEFB;"> 👑 AgusTheKing </h1>
 
-![github_cover_banner](https://raw.githubusercontent.com/AgusTheKing/icons/main/imagaguse1.png)
+![github_cover_banner](perfilgitheader.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px; border-radius:15px;" >
     I am Agustín passionate about Computer Science, studying Microcomputer Systems and Networks. 
