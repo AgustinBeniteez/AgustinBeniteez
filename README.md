@@ -1,8 +1,8 @@
 
 <h1 style="color: #44AEFB;"> 👑 Agustín Benítez | AgusTheKing </h1>
-
-![github_cover_banner](perfilgitheader.png)
-
+  <a href="https://agustinbeniteez.github.io/aboutmeAgus/" target="_blank">
+      <img  alt="HTML" height="500px" style="padding-right:10px;" src="https://github.com/AgustinBeniteez/aboutmeAgus/blob/main/imgreadme/agusbeniporfolio.webp"/>
+  </a>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px; border-radius:15px;" >
     I am Agustín passionate about Computer Science, studying Microcomputer Systems and Networks. 
     learning HTML and CSS and I want to learn a lot more.
