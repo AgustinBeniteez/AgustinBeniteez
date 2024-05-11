@@ -21,12 +21,7 @@ https://agustinbeniteez.github.io/aboutmeAgus/
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JS" height="50px" style="padding-right:10px;" src="https://th.bing.com/th/id/OIP.Y4VPmWW2m4_V2WFYOEGYRgHaHa?rs=1&pid=ImgDetMain"/>
-  </a>
+
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
