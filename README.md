@@ -43,6 +43,7 @@ https://agustinbeniteez.github.io/aboutmeAgus/
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <div class="youtube videos cards" align="center">
  <div class="social-icons-container">
+![imageasdasdads](https://github.com/user-attachments/assets/4e681570-f2b7-45de-819e-3794a514fc83)
                     <a href="https://agustinbeniteez.github.io/" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgusTheKing/icons/main/elementscssdajAD.png"></a>
                     <br>
    <div class="youtube videos cards" align="center">
