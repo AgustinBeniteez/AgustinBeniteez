@@ -21,7 +21,9 @@ https://agustinbeniteez.github.io/aboutmeAgus/
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
-
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="MCreator" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376344/python.svg"/> 
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
@@ -31,9 +33,7 @@ https://agustinbeniteez.github.io/aboutmeAgus/
     <a href="https://mcreator.net/" target="_blank" rel="noreferrer">
       <img  alt="MCreator" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/main/637934764579760780.png"/> 
   </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="MCreator" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376344/python.svg"/> 
-  </a>
+
 </div>
 <br>
 <br>
