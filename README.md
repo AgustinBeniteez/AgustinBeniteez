@@ -31,7 +31,7 @@ https://agustinbeniteez.github.io/aboutmeAgus/
     <a href="https://mcreator.net/" target="_blank" rel="noreferrer">
       <img  alt="MCreator" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/main/637934764579760780.png"/> 
   </a>
-      <a href="https://mcreator.net/" target="_blank" rel="noreferrer">
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="MCreator" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376344/python.svg"/> 
   </a>
 </div>
