@@ -54,7 +54,7 @@ https://agustinbeniteez.github.io/aboutmeAgus/
                     <br>
                        <div class="youtube videos cards" align="center">
  <div class="social-icons-container">
-                    <a href="https://enmamanualidades.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/EnmaManualidades/EnmaManualidades/main/enmamanualidadesheader.png" alt="Elements Css DAJ"></a>
+                    <a href="https://agustinbeniteez.github.io/editorhtml/editor.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgusTheKing/agustheking.github.io/main/imagenes/EditorDAJsocial.png" alt="Elements Css DAJ"></a>
                     <br>
                                    
 <br>
