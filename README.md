@@ -33,7 +33,8 @@ https://agustinbeniteez.github.io/aboutmeAgus/
     <a href="https://mcreator.net/" target="_blank" rel="noreferrer">
       <img  alt="MCreator" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/main/637934764579760780.png"/> 
   </a>
-  <a href="https://github.com/apps/desktop"><svg title="Github Desktop" width="50" height="50" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <a href="https://github.com/apps/desktop">
+    <svg title="Github Desktop" width="50px" height="50px" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <defs>
                     <circle id="b" cx="64" cy="64" r="56"/>
                     <filter x="-7.1%" y="-5.4%" width="114.3%" height="114.3%" filterUnits="objectBoundingBox" id="a">
