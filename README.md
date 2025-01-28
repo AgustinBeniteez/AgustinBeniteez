@@ -51,19 +51,20 @@ https://agustinbeniteez.github.io/aboutmeAgus/
  <div class="social-icons-container">
                     <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/imageasdasdads.webp"></a>
                     <br>
+                             <div class="youtube videos cards" align="center">
+ <div class="social-icons-container">
+                    <a href="https://elementscssdaj.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/ElementsCssDaj%20(AD).png" alt="Elements Css DAJ"></a>
+                    <br>
+                    <div class="youtube videos cards" align="center">
+ <div class="social-icons-container">
+                    <a href="https://agustinbeniteez.github.io/editorhtml/editor.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgusTheKing/agustheking.github.io/main/imagenes/EditorDAJsocial.png" alt="Elements Css DAJ"></a>
+                    <br>    
    <div class="youtube videos cards" align="center">
  <div class="social-icons-container">
                     <a href="https://agustinbeniteez.github.io/Modern-Decor-mods" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://opengraph.b-cdn.net/production/images/c6693002-5a50-47a6-90c5-55c36ee38773.png?token=lBVdLLJ9fwgvCkbEzygfcyc1w5OJ_40Yvss0b95qfoM&height=611&width=1200&expires=33261321783" alt="Elements Css DAJ"></a>
                     <br>
-                       <div class="youtube videos cards" align="center">
- <div class="social-icons-container">
-                    <a href="https://agustinbeniteez.github.io/editorhtml/editor.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgusTheKing/agustheking.github.io/main/imagenes/EditorDAJsocial.png" alt="Elements Css DAJ"></a>
-                    <br>
-                          <div class="youtube videos cards" align="center">
- <div class="social-icons-container">
-                    <a href="https://elementscssdaj.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/ElementsCssDaj%20(AD).png" alt="Elements Css DAJ"></a>
-                    <br>
-                                  
+
+     
 <br>
                                    
 <br>
