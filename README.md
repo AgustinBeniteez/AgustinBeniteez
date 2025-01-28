@@ -74,7 +74,7 @@ https://agustinbeniteez.github.io/aboutmeAgus/
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
-<h2 style="color: #44AEFB"> |⚙️API ELEMENTS CSS DAJ</h2>
+<h2 style="color: #44AEFB"> |⚙️API ELEMENTS CSS DAJ (No Terminada!!)</h2>
 <div class="social-icons-container">
       <a href="https://github.com/AgusTheKing/API.ElementsCssDAJ.github.io">
     <button class="social-icon" onclick="window.open('https://github.com/AgusTheKing/API.ElementsCssDAJ.github.io', '_blank')" style="
