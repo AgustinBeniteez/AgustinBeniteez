@@ -7,7 +7,7 @@
     I am Agustín passionate about Computer Science, studying Microcomputer Systems and Networks. 
     learning HTML and CSS and I want to learn a lot more.
 <br>
-https://agustinbeniteez.github.io/aboutmeAgus/
+agustinbeniteez.github.io/
 </p>    
 <br>
 <!-- Languages and Tools -->
