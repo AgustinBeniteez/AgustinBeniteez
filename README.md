@@ -53,11 +53,12 @@ https://agustinbeniteez.github.io
                     <a href="https://lauraacastro.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png"></a>
                     <br>
                              <div class="youtube videos cards" align="center">
-                  <div class="social-icons-container">
+                  <div class="social-icons-container">        
+                    <h2 style="color: #44AEFB;align="left">Proyecto | Web Extension Navegador </h2>
       <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/imageasdasdads.webp"></a>
       <br>
                <div class="youtube videos cards" align="center">
-                 <h2 style="color: #44AEFB;align="left">Proyecto | Web Extension Navegador </h2>
+         
  <div class="social-icons-container">
                     <h2 style="color: #44AEFB;align="left">Proyecto | Elementos Css DAJ </h2>
                     <a href="https://elementscssdaj.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/ElementsCssDaj%20(AD).png" alt="Elements Css DAJ"></a>
