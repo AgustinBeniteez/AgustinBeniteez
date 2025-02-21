@@ -49,7 +49,7 @@ https://agustinbeniteez.github.io
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <div class="youtube videos cards" align="center">
  <div class="social-icons-container">
-                    <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/imageasdasdads.webp"></a>
+                    <a href="https://lauraacastro.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png"></a>
                     <br>
                              <div class="youtube videos cards" align="center">
  <div class="social-icons-container">
