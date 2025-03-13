@@ -30,6 +30,12 @@ https://agustinbeniteez.github.io
         <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
       <img  alt="JAVA" height="50px" style="" src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2014/03/c7290-java-logo.png"/> 
   </a>
+    <a href="https://git-scm.com/">
+     <img  alt="GIT" height="50px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png"/> 
+  </a>
+  <a href="https://sql.com">
+     <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"/> 
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
@@ -41,12 +47,6 @@ https://agustinbeniteez.github.io
   </a>
   <a href="https://github.com/apps/desktop">
      <img  alt="Github Desktop" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/1784648/97818784-c4fc1080-1ca4-11eb-8681-56ec3fa21756.png"/> 
-  </a>
-  <a href="https://git-scm.com/">
-     <img  alt="GIT" height="50px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png"/> 
-  </a>
-  <a href="https://sql.com">
-     <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"/> 
   </a>
 </div>
 <br>
