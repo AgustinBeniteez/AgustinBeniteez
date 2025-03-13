@@ -1,9 +1,15 @@
 
 <h1 style="color: #44AEFB;"> 👑 Agustín Benítez | AgusTheKing </h1>
-  <a href="https://agustinbeniteez.github.io" target="_blank">
-      <img  alt="HTML" width="100%" style="padding-right:10px;" src="https://github.com/AgustinBeniteez/agustinbeniteez.github.io/blob/main/src/porfolio-resumen-video.gif"/>
-  </a>
-  <h1 style="color: #44AEFB;"> PORFOLIO📄 </h1>  
+<a href="https://agustinbeniteez.github.io" target="_blank">
+    <img id="portfolio-img" 
+         alt="HTML" 
+         width="100%" 
+         style="padding-right:10px;" 
+         src="https://raw.githubusercontent.com/AgustinBeniteez/agustinbeniteez.github.io/refs/heads/main/src/porfolio-miniatura.webp" 
+         onload="loadGif()"
+    />
+</a>
+<h1 style="color: #44AEFB;"> PORFOLIO📄 </h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px; border-radius:15px;" >
     I am Agustín passionate about Computer Science, studying Microcomputer Systems and Networks. 
