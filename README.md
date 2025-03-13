@@ -24,6 +24,9 @@ https://agustinbeniteez.github.io
       <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="MCreator" height="50px" style="" src="https://www.svgrepo.com/show/376344/python.svg"/> 
   </a>
+        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
+      <img  alt="JAVA" height="50px" style="" src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2014/03/c7290-java-logo.png"/> 
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
