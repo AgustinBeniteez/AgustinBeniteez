@@ -21,6 +21,9 @@ https://agustinbeniteez.github.io
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img  alt="JS" height="50px" style="padding-right:10px;" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7lQifFj53_cXonkpzVz1SQ1_XA2mRDU777PQfombipcsOFWtcX4HUI_aKO42Cn9GjwGyOF6PQZqORqh1rEqsBUpe8R5SRxVqKRXni2g"/>
+  </a>
       <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="MCreator" height="50px" style="" src="https://www.svgrepo.com/show/376344/python.svg"/> 
   </a>
@@ -41,6 +44,9 @@ https://agustinbeniteez.github.io
   </a>
   <a href="https://git-scm.com/">
      <img  alt="GIT" height="50px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png"/> 
+  </a>
+  <a href="https://sql.com">
+     <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"/> 
   </a>
 </div>
 <br>
