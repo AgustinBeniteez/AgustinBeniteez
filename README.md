@@ -1,5 +1,5 @@
 
-<h1 style="color: #44AEFB;"> 👑 Agustín Benítez | AgusTheKing dev </h1>
+<h1 style="color: #44AEFB;"> 👑 Agustín Benítez | AgusTheKing dev  &lt;/&gt;</h1>
 <a href="https://agustinbeniteez.github.io" target="_blank">
     <img id="portfolio-img" 
          alt="HTML" 
