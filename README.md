@@ -103,19 +103,12 @@ https://agustinbeniteez.github.io
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
-<h2 style="color: #44AEFB"> |⚙️API ELEMENTS CSS DAJ (No Terminada!!)</h2>
+<h2 style="color: #44AEFB"> |⚙️GAME CON <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img  alt="JS" height="50px" style="padding-right:10px;" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7lQifFj53_cXonkpzVz1SQ1_XA2mRDU777PQfombipcsOFWtcX4HUI_aKO42Cn9GjwGyOF6PQZqORqh1rEqsBUpe8R5SRxVqKRXni2g"/>
+  </a>(En Desarrollo) (No Terminado!!)</h2>
 <div class="social-icons-container">
-      <a href="https://github.com/AgusTheKing/API.ElementsCssDAJ.github.io">
-    <button class="social-icon" onclick="window.open('https://github.com/AgusTheKing/API.ElementsCssDAJ.github.io', '_blank')" style="
-        display: inline-block;
-        margin: 10px;
-        transition: transform 0.3s ease-in-out;
-        border: none;
-        background-color: white;
-        cursor: pointer;
-        padding: 0;
-    ">
-        <img src="https://raw.githubusercontent.com/AgusTheKing/API.ElementsCssDAJ.github.io/main/img/APIbr_DAJsocial.png" style="
+      <a href="https://github.com/AgustinBeniteez/LAUX-Game-roguelike">
+        <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/gamelaux.png" style="
             width: 1900px;
             border-radius: 20px;
         ">
