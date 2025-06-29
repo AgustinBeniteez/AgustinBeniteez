@@ -39,7 +39,7 @@ https://agustinbeniteez.github.io
       <img  alt="JAVA" height="50px" style="" src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2014/03/c7290-java-logo.png"/> 
   </a>
     <a href="https://git-scm.com/">
-     <img  alt="GIT" height="50px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png"/> 
+     <img  alt="GIT" height="50px" style="padding-right:10px;" src="https://git-scm.com/favicon.ico"/> 
   </a>
   <a href="https://sql.com">
      <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"/> 
