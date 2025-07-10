@@ -66,32 +66,34 @@ https://agustinbeniteez.github.io
 <br />
 
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div class="youtube videos cards" >
- <div class="social-icons-container" aling="center">
-                     <h2 style="color: #44AEFB;align="left">Proyecto | Porfolio Laura Castro </h2>
-                    <a href="https://lauraacastro.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png"></a>
-                    <br>
-                             <div class="youtube videos cards" align="center">
+
+<div class="youtube videos cards" align="center">
                   <div class="social-icons-container">        
                     <h2 style="color: #44AEFB;align="left">Proyecto | Web Extension Navegador </h2>
       <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/imageasdasdads.webp"></a>
       <br>
+      <div class="youtube videos cards" >
+ <div class="social-icons-container" aling="center">
+                     <h2 style="color: #44AEFB;align="left">Proyecto | Porfolio Laura Castro </h2>
+                    <a href="https://lauraacastro.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png"></a>
+                    <br>
                <div class="youtube videos cards" align="center">
          
  <div class="social-icons-container">
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Elementos Css DAJ </h2>
-                    <a href="https://elementscssdaj.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/ElementsCssDaj%20(AD).png" alt="Elements Css DAJ"></a>
+                    <h2 style="color: #44AEFB;align="left">Proyecto | Tienda EnmaManualidades </h2>
+                    <a href="https://enmamanualidades.vercel.app" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/webEnmaManualidades.png" alt="EnmaManualidades"></a>
+                    <br>
+        <div class="youtube videos cards">
+ <div class="social-icons-container">
+                    <h2 style="color: #44AEFB;align="left">Proyecto | Mods Minecraft </h2>
+                    <a href="https://agustinbeniteez.github.io/Wikimods/index.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/wikimodATK.png" alt="Elements Css DAJ"></a>
                     <br>
                     <div class="youtube videos cards" align="center">
  <div class="social-icons-container">
                     <h2 style="color: #44AEFB;align="left">Proyecto | Editor Code </h2>
                     <a href="https://elementscssdaj.github.io/editor/editor.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://github.com/AgustinBeniteez/AgustinBeniteez/blob/main/EditorDAJsocial.png" alt="Elements Css DAJ"></a>
                     <br>    
-   <div class="youtube videos cards">
- <div class="social-icons-container">
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Mods Minecraft </h2>
-                    <a href="https://agustinbeniteez.github.io/Wikimods/index.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/wikimodATK.png" alt="Elements Css DAJ"></a>
-                    <br>
+
 
      
 <br>
