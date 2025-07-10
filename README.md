@@ -28,7 +28,7 @@ https://agustinbeniteez.github.io
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JS" height="50px" style="padding-right:10px;" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7lQifFj53_cXonkpzVz1SQ1_XA2mRDU777PQfombipcsOFWtcX4HUI_aKO42Cn9GjwGyOF6PQZqORqh1rEqsBUpe8R5SRxVqKRXni2g"/>
