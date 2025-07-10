@@ -27,6 +27,7 @@ https://agustinbeniteez.github.io
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -85,7 +86,7 @@ https://agustinbeniteez.github.io
                     <br>
         <div class="youtube videos cards">
  <div class="social-icons-container">
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Mods Minecraft </h2>
+                    <h2 style="color: #44AEFB;align="left">Proyecto | Wiki Mods </h2>
                     <a href="https://agustinbeniteez.github.io/Wikimods/index.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/wikimodATK.png" alt="Elements Css DAJ"></a>
                     <br>
                     <div class="youtube videos cards" align="center">
