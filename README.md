@@ -91,8 +91,8 @@ https://agustinbeniteez.github.io
                     <br>
                     <div class="youtube videos cards" align="center">
  <div class="social-icons-container">
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Editor Code </h2>
-                    <a href="https://elementscssdaj.github.io/editor/editor.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://github.com/AgustinBeniteez/AgustinBeniteez/blob/main/EditorDAJsocial.png" alt="Elements Css DAJ"></a>
+                    <h2 style="color: #44AEFB;align="left">Proyecto | Horarios Académicos </h2>
+                    <a href="https://horario-lilac.vercel.app" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/horario.png" alt="Horarios Académicos"></a>
                     <br>    
 
 
