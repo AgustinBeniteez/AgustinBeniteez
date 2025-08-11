@@ -67,27 +67,28 @@ https://agustinbeniteez.github.io
 <br />
 
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-
-<div class="youtube videos cards" align="center">
-                  <div class="social-icons-container">        
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Web Extension Navegador </h2>
-      <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/imageasdasdads.webp"></a>
-      <br>
-      <div class="youtube videos cards" >
- <div class="social-icons-container" aling="center">
-                     <h2 style="color: #44AEFB;align="left">Proyecto | Porfolio Laura Castro </h2>
-                    <a href="https://lauraacastro.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png"></a>
-                    <br>
-               <div class="youtube videos cards" align="center">
+ <div class="youtube videos cards" align="center">
          
  <div class="social-icons-container">
                     <h2 style="color: #44AEFB;align="left">Proyecto | Tienda EnmaManualidades </h2>
                     <a href="https://enmamanualidades.vercel.app" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/webEnmaManualidades.png" alt="EnmaManualidades"></a>
                     <br>
-        <div class="youtube videos cards">
+
+<div class="youtube videos cards" >
+ <div class="social-icons-container" aling="center">
+                     <h2 style="color: #44AEFB;align="left">Proyecto | Porfolio Laura Castro </h2>
+                    <a href="https://lauraacastro.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png"></a>
+                    <br>
+              
+<div class="youtube videos cards">
  <div class="social-icons-container">
                     <h2 style="color: #44AEFB;align="left">Proyecto | Wiki Mods </h2>
                     <a href="https://agustinbeniteez.github.io/Wikimods/index.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/wikimodATK.png" alt="Elements Css DAJ"></a>
+                    <br>
+     <div class="youtube videos cards">
+ <div class="social-icons-container">
+                    <h2 style="color: #44AEFB;align="left">Proyecto | Valorantdle </h2>
+                    <a href="https://valorantdle-game.vercel.app" style="border-radius:20px;" class="social-icon" target="_blank"><img src="/a0fb2243-894d-4244-a233-df23f5bac50f.webp" alt="Valorantdle"></a>
                     <br>
                     <div class="youtube videos cards" align="center">
  <div class="social-icons-container">
@@ -106,18 +107,11 @@ https://agustinbeniteez.github.io
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
-<h2 style="color: #44AEFB"> |⚙️GAME CON <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JS" height="50px" style="padding-right:10px;" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7lQifFj53_cXonkpzVz1SQ1_XA2mRDU777PQfombipcsOFWtcX4HUI_aKO42Cn9GjwGyOF6PQZqORqh1rEqsBUpe8R5SRxVqKRXni2g"/>
-  </a>(En Desarrollo) (No Terminado!!)</h2>
-<div class="social-icons-container">
-      <a href="https://github.com/AgustinBeniteez/LAUX-Game-roguelike">
-        <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/gamelaux.png" style="
-            width: 1900px;
-            border-radius: 20px;
-        ">
-    </button>
-    </a>
-</div>
+<div class="youtube videos cards" align="center">
+                  <div class="social-icons-container">        
+                    <h2 style="color: #44AEFB;align="left">Proyecto | Web Extension Navegador </h2>
+      <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/imageasdasdads.webp"></a>
+      <br>
 
 
 <!-- End Footer -->
