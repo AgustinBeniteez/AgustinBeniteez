@@ -1,117 +1,227 @@
 
-<h1 style="color: #44AEFB;"> 👑 Agustín Benítez | AgusTheKing dev  &lt;/&gt;</h1>
-<a href="https://agustinbeniteez.github.io" target="_blank">
-    <img id="portfolio-img" 
-         alt="HTML" 
-         width="100%" 
-         style="padding-right:10px;" 
-         src="https://raw.githubusercontent.com/AgustinBeniteez/agustinbeniteez.github.io/refs/heads/main/src/porfolio-miniatura.webp" 
-         onload="loadGif()"
-    />
-</a>
-<h1 style="color: #44AEFB;"> PORFOLIO📄 </h1>
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px; border-radius:15px;" >
-    I am Agustín passionate about Computer Science, studying Microcomputer Systems and Networks. 
-    learning HTML and CSS and I want to learn a lot more.
-<br>
-https://agustinbeniteez.github.io
-</p>    
-<br>
-<!-- Languages and Tools -->
-
-<h2 style="color: #44AEFB"> |⚙️ Languages and Tools</h2>
-<br>   
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 
-<img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JS" height="50px" style="padding-right:10px;" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7lQifFj53_cXonkpzVz1SQ1_XA2mRDU777PQfombipcsOFWtcX4HUI_aKO42Cn9GjwGyOF6PQZqORqh1rEqsBUpe8R5SRxVqKRXni2g"/>
-  </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="MCreator" height="50px" style="" src="https://www.svgrepo.com/show/376344/python.svg"/> 
-  </a>
-        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
-      <img  alt="JAVA" height="50px" style="" src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2014/03/c7290-java-logo.png"/> 
-  </a>
-    <a href="https://git-scm.com/">
-     <img  alt="GIT" height="50px" style="padding-right:10px;" src="https://git-scm.com/favicon.ico"/> 
-  </a>
-  <a href="https://sql.com">
-     <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  </a>
-    <a href="https://mcreator.net/" target="_blank" rel="noreferrer">
-      <img  alt="MCreator" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/main/637934764579760780.png"/> 
-  </a>
-  <a href="https://github.com/apps/desktop">
-     <img  alt="Github Desktop" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/1784648/97818784-c4fc1080-1ca4-11eb-8681-56ec3fa21756.png"/> 
-  </a>
+# 👑 Agustín Benítez | AgusTheKing dev </>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=44AEFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Passionate+about+Technology;Always+learning+new+things!" alt="Typing SVG" />
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-44AEFB?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20work-brightgreen?style=for-the-badge" alt="Status">
 </div>
-<br>
-<br>
-
-<!-- Latest YouTube Videos -->
-
-<h2 style="color: #44AEFB"> | 🖥️ Projects</h2>
-<br />
-
-<!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
- <div class="youtube videos cards" align="center">
-         
- <div class="social-icons-container">
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Tienda EnmaManualidades </h2>
-                    <a href="https://enmamanualidades.vercel.app" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/webEnmaManualidades.png" alt="EnmaManualidades"></a>
-                    <br>
-
-<div class="youtube videos cards" >
- <div class="social-icons-container" aling="center">
-                     <h2 style="color: #44AEFB;align="left">Proyecto | Porfolio Laura Castro </h2>
-                    <a href="https://lauraacastro.github.io" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png"></a>
-                    <br>
-              
-<div class="youtube videos cards">
- <div class="social-icons-container">
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Wiki Mods </h2>
-                    <a href="https://agustinbeniteez.github.io/Wikimods/index.html" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/wikimodATK.png" alt="Elements Css DAJ"></a>
-                    <br>
-     <div class="youtube videos cards">
- <div class="social-icons-container">
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Valorantdle </h2>
-                    <a href="https://valorantdle-game.vercel.app" style="border-radius:20px;" class="social-icon" target="_blank"><img src="/a0fb2243-894d-4244-a233-df23f5bac50f.webp" alt="Valorantdle"></a>
-                    <br>
-                    <div class="youtube videos cards" align="center">
- <div class="social-icons-container">
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Horarios Académicos </h2>
-                    <a href="https://horario-lilac.vercel.app" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/horario.png" alt="Horarios Académicos"></a>
-                    <br>    
-
-
-     
-<br>
-                                   
-<br>
-<!-- End Youtube Buttons -->
 
 ---
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<div class="youtube videos cards" align="center">
-                  <div class="social-icons-container">        
-                    <h2 style="color: #44AEFB;align="left">Proyecto | Web Extension Navegador </h2>
-      <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" style="border-radius:20px;" class="social-icon" target="_blank"><img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/imageasdasdads.webp"></a>
-      <br>
 
+### 🚀 About Me
 
-<!-- End Footer -->
+<p style="text-align: center; font-size: 16px; max-width: 600px; margin: 0 auto;">
+  Passionate Computer Science student specializing in Microcomputer Systems and Networks. 
+  Currently mastering web technologies and always eager to learn new skills and take on exciting challenges.
+</p>
+
+<br>
+
+<a href="https://agustinbeniteez.github.io" target="_blank">
+    <img alt="Portfolio Preview" 
+         width="80%" 
+         style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" 
+         src="https://raw.githubusercontent.com/AgustinBeniteez/agustinbeniteez.github.io/refs/heads/main/src/porfolio-miniatura.webp" 
+    />
+</a>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,vscode,figma,github" alt="Tech Stack" />
+</div>
+
+<div align="center" style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center" style="color: #44AEFB;">🛍️ Tienda EnmaManualidades</h3>
+        <div align="center">
+          <a href="https://enmamanualidades.vercel.app" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/webEnmaManualidades.png" width="400" alt="EnmaManualidades" style="border-radius: 10px;"/>
+          </a>
+          <br><br>
+          <p><b>E-commerce platform</b> - Modern online store with responsive design</p>
+          <a href="https://enmamanualidades.vercel.app" target="_blank">
+             <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
+           </a>
+           <a href="https://github.com/AgustinBeniteez/enma-manualidades-public-repository" target="_blank">
+             <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+           </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center" style="color: #44AEFB;">💼 Portfolio Laura Castro</h3>
+        <div align="center">
+          <a href="https://lauraacastro.github.io" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png" width="400" alt="Laura Portfolio" style="border-radius: 10px;"/>
+          </a>
+          <br><br>
+          <p><b>Professional Portfolio</b> - Clean and elegant design showcase</p>
+          <a href="https://lauraacastro.github.io" target="_blank">
+             <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
+           </a>
+           <a href="https://github.com/lauraacastro/lauraacastro.github.io" target="_blank">
+             <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+           </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center" style="color: #44AEFB;">📚 Wiki Mods</h3>
+        <div align="center">
+          <a href="https://agustinbeniteez.github.io/Wikimods/index.html" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/wikimodATK.png" width="400" alt="Wiki Mods" style="border-radius: 10px;"/>
+          </a>
+          <br><br>
+          <p><b>Gaming Wiki</b> - Comprehensive mod documentation platform</p>
+          <a href="https://agustinbeniteez.github.io/Wikimods/index.html" target="_blank">
+             <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
+           </a>
+           <a href="https://github.com/AgustinBeniteez/Wikimods" target="_blank">
+             <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+           </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center" style="color: #44AEFB;">🎮 Valorantdle</h3>
+        <div align="center">
+          <a href="https://valorantdle-game.vercel.app" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/a0fb2243-894d-4244-a233-df23f5bac50f.webp" width="400" alt="Valorantdle" style="border-radius: 10px;"/>
+          </a>
+          <br><br>
+          <p><b>Gaming Quiz</b> - Interactive Valorant-themed guessing game</p>
+          <a href="https://valorantdle-game.vercel.app" target="_blank">
+             <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
+           </a>
+           <a href="https://github.com/AgustinBeniteez/valorantdle" target="_blank">
+             <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+           </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center" style="color: #44AEFB;">📅 Horarios Académicos</h3>
+        <div align="center">
+          <a href="https://horario-lilac.vercel.app" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/horario.png" width="400" alt="Horarios" style="border-radius: 10px;"/>
+          </a>
+          <br><br>
+          <p><b>Schedule Manager</b> - Academic timetable organization tool</p>
+          <a href="https://horario-lilac.vercel.app" target="_blank">
+             <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
+           </a>
+           <a href="https://github.com/AgustinBeniteez/horario" target="_blank">
+             <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+           </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center" style="color: #44AEFB;">🌐 Browser Extension</h3>
+        <div align="center">
+          <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/imageasdasdads.webp" width="400" alt="Browser Extension" style="border-radius: 10px;"/>
+          </a>
+          <br><br>
+          <p><b>Browser Extension</b> - Custom start page with useful features</p>
+          <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" target="_blank">
+             <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
+           </a>
+           <a href="https://github.com/AgustinBeniteez/Custom-Browser-Main-Page" target="_blank">
+             <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+           </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎮 Game Mods
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%">
+        <h3 align="center" style="color: #44AEFB;">⚙️ Indexer Mod</h3>
+        <div align="center">
+          <a href="https://www.curseforge.com/minecraft/mc-mods/indexer" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/indexermod.png" width="600" alt="Indexer Mod" style="border-radius: 10px;"/>
+          </a>
+          <br><br>
+          <p><b>Minecraft Storage Automation</b> - Advanced item sorting and organization system for Minecraft 1.20.1</p>
+          <p>Automate your storage with intelligent filtering, massive range (250+ blocks), and furnace compatibility. Features speed upgrades, multilingual support, and unlimited connector capacity.</p>
+          <a href="https://www.curseforge.com/minecraft/mc-mods/indexer" target="_blank">
+            <img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"/>
+          </a>
+          <a href="https://github.com/AgustinBeniteez/Indexer-mod" target="_blank">
+            <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinBeniteez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=44AEFB&icon_color=44AEFB" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinBeniteez&theme=tokyonight&hide_border=true&background=0D1117&stroke=44AEFB&ring=44AEFB&fire=44AEFB&currStreakLabel=44AEFB" alt="GitHub Streak" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinBeniteez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=44AEFB" alt="Top Languages" width="48%">
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://agustinbeniteez.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-44AEFB?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:adivinanzas1991@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/agustin-benitez-lopez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AgustinBeniteez&color=44AEFB&style=flat-square&label=Profile+Views" alt="Profile Views">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=44AEFB&height=100&section=footer" alt="Footer Wave"/>
+</div>
+
+</div>
