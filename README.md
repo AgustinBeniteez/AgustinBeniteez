@@ -198,6 +198,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinBeniteez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=44AEFB" alt="Top Languages" width="48%">
 </div>
 
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgustinBeniteez&theme=tokyo-night&bg_color=0D1117&color=44AEFB&line=44AEFB&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgustinBeniteez&theme=tokyonight" alt="Profile Summary" width="100%">
+</div>
+
 ---
 
 ## 🤝 Let's Connect!
