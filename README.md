@@ -7,7 +7,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
   <img src="https://img.shields.io/badge/Portfolio-Visit-44AEFB?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20work-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Studying-blue?style=for-the-badge" alt="Status">
 </div>
 
 ---
