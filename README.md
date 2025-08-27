@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+### 👑 About Me
 
 <p style="text-align: center; font-size: 16px; max-width: 600px; margin: 0 auto;">
   Passionate Computer Science student specializing in Microcomputer Systems and Networks. 
@@ -34,16 +34,7 @@
 ## ⚙️ Tech Stack
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,vscode,figma,github" alt="Tech Stack" />
-</div>
-
-<div align="center" style="margin: 10px 0;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,git,mysql,npm,vscode,figma,github" alt="Tech Stack" />
 </div>
 
 ---
