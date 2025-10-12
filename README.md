@@ -167,6 +167,9 @@
           <a href="https://www.curseforge.com/minecraft/mc-mods/indexer" target="_blank">
             <img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"/>
           </a>
+          <a href="https://modrinth.com/mod/indexer" target="_blank">
+            <img src="https://img.shields.io/badge/Modrinth-6F98A8?style=for-the-badge&logo=modrinth&logoColor=white"/>
+          </a>
           <a href="https://github.com/AgustinBeniteez/Indexer-mod" target="_blank">
             <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
