@@ -61,17 +61,17 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center" style="color: #44AEFB;">💼 Portfolio Laura Castro</h3>
+        <h3 align="center" style="color: #44AEFB;"> ARCH GAME | siteweb</h3>
         <div align="center">
-          <a href="https://lauraacastro.github.io" target="_blank">
-            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png" width="400" alt="Laura Portfolio" style="border-radius: 10px;"/>
+          <a href="https://arch-game.vercel.app" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/webarch.png" width="400" alt="ARCH GAME" style="border-radius: 10px;"/>
           </a>
           <br><br>
-          <p><b>Professional Portfolio</b> - Clean and elegant design showcase</p>
-          <a href="https://lauraacastro.github.io" target="_blank">
+          <p><b>ARCH GAME</b> - web to my game java arch</p>
+          <a href="https://arch-game.vercel.app" target="_blank">
              <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
            </a>
-           <a href="https://github.com/lauraacastro/lauraacastro.github.io" target="_blank">
+           <a href="https://github.com/AgustinBeniteez/arch-game" target="_blank">
              <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
            </a>
         </div>
@@ -112,20 +112,20 @@
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <h3 align="center" style="color: #44AEFB;">📅 Horarios Académicos</h3>
+    <td width="50%">
+        <h3 align="center" style="color: #44AEFB;">💼 Portfolio Laura Castro</h3>
         <div align="center">
-          <a href="https://horario-lilac.vercel.app" target="_blank">
-            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/horario.png" width="400" alt="Horarios" style="border-radius: 10px;"/>
+          <a href="https://lauraacastro.github.io" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/laura-profolio-min.png" width="400" alt="Laura Portfolio" style="border-radius: 10px;"/>
           </a>
           <br><br>
-          <p><b>Schedule Manager</b> - Academic timetable organization tool</p>
-          <a href="https://horario-lilac.vercel.app" target="_blank">
-             <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
-           </a>
-           <a href="https://github.com/AgustinBeniteez/horario" target="_blank">
-             <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-           </a>
+          <p><b>Professional Portfolio</b> - Clean and elegant design showcase</p>
+          <a href="https://lauraacastro.github.io" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
+          </a>
+          <a href="https://github.com/lauraacastro/lauraacastro.github.io" target="_blank">
+            <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
         </div>
       </td>
       <td width="50%">
