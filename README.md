@@ -25,7 +25,7 @@
     <img alt="Portfolio Preview" 
          width="80%" 
          style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" 
-         src="https://raw.githubusercontent.com/AgustinBeniteez/agustinbeniteez.github.io/refs/heads/main/src/porfolio-miniatura.webp" 
+         src="/porfolioPortada.png" 
     />
 </a>
 
