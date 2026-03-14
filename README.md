@@ -131,8 +131,8 @@
       <td width="50%">
         <h3 align="center" style="color: #44AEFB;">🌐 Browser Extension</h3>
         <div align="center">
-          <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" target="_blank">
-            <img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/imageasdasdads.webp" width="400" alt="Browser Extension" style="border-radius: 10px;"/>
+          <a href="https://custom-browser-main-page.vercel.app" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/extensionPreviewAD.png" width="400" alt="Browser Extension" style="border-radius: 10px;"/>
           </a>
           <br><br>
           <p><b>Browser Extension</b> - Custom start page with useful features</p>
