@@ -136,7 +136,7 @@
           </a>
           <br><br>
           <p><b>Browser Extension</b> - Custom start page with useful features</p>
-          <a href="https://agustinbeniteez.github.io/Custom-Browser-Main-Page/" target="_blank">
+          <a href="https://custom-browser-main-page.vercel.app" target="_blank">
              <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
            </a>
            <a href="https://github.com/AgustinBeniteez/Custom-Browser-Main-Page" target="_blank">
