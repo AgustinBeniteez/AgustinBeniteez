@@ -61,17 +61,17 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center" style="color: #44AEFB;"> ARCH GAME | siteweb</h3>
+        <h3 align="center" style="color: #44AEFB;">🌐 Browser Extension</h3>
         <div align="center">
-          <a href="https://arch-game.vercel.app" target="_blank">
-            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/webarch.png" width="400" alt="ARCH GAME" style="border-radius: 10px;"/>
+          <a href="https://custom-browser-main-page.vercel.app" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/extensionPreviewAD.png" width="400" alt="Browser Extension" style="border-radius: 10px;"/>
           </a>
           <br><br>
-          <p><b>ARCH GAME</b> - web to my game java arch</p>
-          <a href="https://arch-game.vercel.app" target="_blank">
+          <p><b>Browser Extension</b> - Custom start page with useful features</p>
+          <a href="https://custom-browser-main-page.vercel.app" target="_blank">
              <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
            </a>
-           <a href="https://github.com/AgustinBeniteez/arch-game" target="_blank">
+           <a href="https://github.com/AgustinBeniteez/Custom-Browser-Main-Page" target="_blank">
              <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
            </a>
         </div>
@@ -128,18 +128,18 @@
           </a>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center" style="color: #44AEFB;">🌐 Browser Extension</h3>
+    <td width="50%">
+        <h3 align="center" style="color: #44AEFB;"> ARCH GAME | siteweb</h3>
         <div align="center">
-          <a href="https://custom-browser-main-page.vercel.app" target="_blank">
-            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/extensionPreviewAD.png" width="400" alt="Browser Extension" style="border-radius: 10px;"/>
+          <a href="https://arch-game.vercel.app" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/webarch.png" width="400" alt="ARCH GAME" style="border-radius: 10px;"/>
           </a>
           <br><br>
-          <p><b>Browser Extension</b> - Custom start page with useful features</p>
-          <a href="https://custom-browser-main-page.vercel.app" target="_blank">
+          <p><b>ARCH GAME</b> - web to my game java arch</p>
+          <a href="https://arch-game.vercel.app" target="_blank">
              <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
            </a>
-           <a href="https://github.com/AgustinBeniteez/Custom-Browser-Main-Page" target="_blank">
+           <a href="https://github.com/AgustinBeniteez/arch-game" target="_blank">
              <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
            </a>
         </div>
