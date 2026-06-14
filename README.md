@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👑 Agustín Benítez | AgusTheKing dev </>
@@ -45,19 +44,17 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center" style="color: #44AEFB;">🛍️ Tienda EnmaManualidades</h3>
+        <h3 align="center" style="color: #44AEFB;">🔥 AnimeLover</h3>
         <div align="center">
-          <a href="https://enmamanualidades.vercel.app" target="_blank">
-            <img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/webEnmaManualidades.png" width="400" alt="EnmaManualidades" style="border-radius: 10px;"/>
+          <a href="https://anime-lover-list.vercel.app" target="_blank">
+            <img src="./animeLover.png" width="400" alt="AnimeLover" style="border-radius: 10px;"/>
           </a>
           <br><br>
-          <p><b>E-commerce platform</b> - Modern online store with responsive design</p>
-          <a href="https://enmamanualidades.vercel.app" target="_blank">
+          <p><b>Anime & Manga Tracker</b> - Web application to manage your personal watchlists</p>
+          <a href="https://anime-lover-list.vercel.app" target="_blank">
              <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
            </a>
-           <a href="https://github.com/AgustinBeniteez/enma-manualidades-public-repository" target="_blank">
-             <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-           </a>
+           <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github&logoColor=white"/>
         </div>
       </td>
       <td width="50%">
@@ -79,17 +76,17 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center" style="color: #44AEFB;">📚 Wiki Mods</h3>
+        <h3 align="center" style="color: #44AEFB;">🛍️ Tienda EnmaManualidades</h3>
         <div align="center">
-          <a href="https://agustinbeniteez.github.io/Wikimods/index.html" target="_blank">
-            <img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/wikimodATK.png" width="400" alt="Wiki Mods" style="border-radius: 10px;"/>
+          <a href="https://enmamanualidades.vercel.app" target="_blank">
+            <img src="https://raw.githubusercontent.com/AgustinBeniteez/icons/refs/heads/main/webEnmaManualidades.png" width="400" alt="EnmaManualidades" style="border-radius: 10px;"/>
           </a>
           <br><br>
-          <p><b>Gaming Wiki</b> - Comprehensive mod documentation platform</p>
-          <a href="https://agustinbeniteez.github.io/Wikimods/index.html" target="_blank">
+          <p><b>E-commerce platform</b> - Modern online store with responsive design</p>
+          <a href="https://enmamanualidades.vercel.app" target="_blank">
              <img src="https://img.shields.io/badge/Live%20Demo-44AEFB?style=for-the-badge&logo=web&logoColor=white"/>
            </a>
-           <a href="https://github.com/AgustinBeniteez/Wikimods" target="_blank">
+           <a href="https://github.com/AgustinBeniteez/enma-manualidades-public-repository" target="_blank">
              <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
            </a>
         </div>
