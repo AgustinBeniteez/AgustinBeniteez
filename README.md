@@ -61,7 +61,7 @@
         <h3 align="center" style="color: #44AEFB;">🌐 Browser Extension</h3>
         <div align="center">
           <a href="https://custom-browser-main-page.vercel.app" target="_blank">
-            <img src="https://raw.githubusercontent.com/AgustinBeniteez/AgustinBeniteez/refs/heads/main/extensionPreviewAD.png" width="400" alt="Browser Extension" style="border-radius: 10px;"/>
+            <img src="./customMainPage.png" width="400" alt="Browser Extension" style="border-radius: 10px;"/>
           </a>
           <br><br>
           <p><b>Browser Extension</b> - Custom start page with useful features</p>
