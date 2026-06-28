@@ -128,7 +128,7 @@
     <td width="50%">
         <h3 align="center" style="color: #44AEFB;"> ARCH: Origins of a King | VideoGame</h3>
         <div align="center">
-          <a href="https://arch-game.vercel.app" target="_blank">
+          <a href="https://agustheking.itch.io/arch" target="_blank">
             <img src="./portadaArch.png" width="400" alt="ARCH GAME" style="border-radius: 10px;"/>
           </a>
           <br><br>
